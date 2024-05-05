@@ -4,3 +4,4 @@ pandas
 numpy
 matplotlib
 pickle4
+gunicorn
